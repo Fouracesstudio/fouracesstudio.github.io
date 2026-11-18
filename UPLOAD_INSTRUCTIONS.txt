@@ -1,0 +1,9 @@
+GITHUB PAGES — Four Aces Studio
+
+1. Open https://github.com/Fouracesstudio/fouracesstudio.github.io
+2. In the Code tab, choose Add file > Upload files (on mobile, use Desktop site if hidden).
+3. Upload the CONTENTS of this ZIP, not the ZIP file itself. Files must be in the repository root, beside README.md.
+4. Commit changes to main. Wait for Pages to deploy.
+5. Verify https://fouracesstudio.github.io/ and https://fouracesstudio.github.io/privacy.ru.html
+
+IMPORTANT: Legal pages include the real full name of the responsible person and are PUBLIC. Review before upload. They are DRAFTS; verify data processing, Yandex SDK disclosure, legal requirements, and asset licenses before app release.
